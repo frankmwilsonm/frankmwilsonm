@@ -6,7 +6,7 @@
 <!-- - :trophy: `ACPC` Finalist 2021 -->
 - :technologist: Pero me encanta usar el software como una solución de  `Problemas`
 - :computer: Y me gusta mucho los sistemas `Linux`.
-- :student: Aunque actualmente estoy aprendiendo `Sistem Engineering`.
+- :student: Aunque actualmente estoy estudiando `Sistem Engineering`.
 <!-- - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).-->
 - :nerd_face: Siempre estoy aprendiendo muchas `Cosas nuevas`
  
