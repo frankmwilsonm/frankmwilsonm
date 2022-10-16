@@ -1,6 +1,6 @@
-## new title v3.5
+## new title v4
 
-<h1 align="center">  Hi , I'm Frank Wilson MW<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<h1 align="center">  Hi , I'm Frank Wilson<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 <p align="center">
 
    ## :sassy_man:  About me
